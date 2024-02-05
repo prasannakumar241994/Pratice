@@ -195,8 +195,8 @@ external:
   # The values can be IP addresses or DNS names.
   # If external.domain is set, the domain is appended to these values.
   addresses:
-    - 172.51.1.44
-    - 172.51.1.45
+    - 172.50.1.55
+    - 172.47.1.70
   # - redpanda-0
   # - redpanda-1
   # - redpanda-2
